@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<ionic.h>
-void maim()
+void main()
 {
 }
-void addstudent()
-{
+
+printf("this is STUDENT MANAGEMENT SYSTEM");
+getch();
 
 }
