@@ -2,7 +2,7 @@
 #include<ionic.h>
 void main()
 {
-}
-void fees()
-{
+printf("this is STUDENT MANAGEMENT SYSTEM");
+getch();
+
 }
