@@ -2,8 +2,6 @@
 #include<ionic.h>
 void main()
 {
-}
-
 printf("this is STUDENT MANAGEMENT SYSTEM");
 getch();
 
